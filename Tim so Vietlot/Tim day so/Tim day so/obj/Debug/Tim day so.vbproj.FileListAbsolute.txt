@@ -1,0 +1,11 @@
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\bin\Debug\Tim day so.exe.config
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\bin\Debug\Tim day so.exe
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\bin\Debug\Tim day so.pdb
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\bin\Debug\Tim day so.xml
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\obj\Debug\Tim day so.vbprojResolveAssemblyReference.cache
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\obj\Debug\Tim_day_so.Form1.resources
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\obj\Debug\Tim_day_so.Resources.resources
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\obj\Debug\Tim day so.vbproj.GenerateResource.Cache
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\obj\Debug\Tim day so.exe
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\obj\Debug\Tim day so.xml
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\Tim day so\Tim day so\obj\Debug\Tim day so.pdb

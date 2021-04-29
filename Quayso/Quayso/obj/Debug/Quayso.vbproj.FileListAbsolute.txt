@@ -1,0 +1,5 @@
+D:\VB2005\NSV-Vietlot\Quayso\Quayso\obj\Debug\Quayso.vbprojAssemblyReference.cache
+D:\VB2005\NSV-Vietlot\Quayso\Quayso\obj\Debug\Quayso.Form1.resources
+D:\VB2005\NSV-Vietlot\Quayso\Quayso\obj\Debug\Quayso.Resources.resources
+D:\VB2005\NSV-Vietlot\Quayso\Quayso\obj\Debug\Quayso.vbproj.GenerateResource.cache
+D:\VB2005\NSV-Vietlot\Quayso\Quayso\obj\Debug\Quayso.vbproj.CoreCompileInputs.cache

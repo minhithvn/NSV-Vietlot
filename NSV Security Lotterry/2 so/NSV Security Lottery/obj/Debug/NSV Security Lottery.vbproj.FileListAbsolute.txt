@@ -1,0 +1,21 @@
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\bin\Debug\NSV Security Lottery.exe
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\bin\Debug\NSV Security Lottery.pdb
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\bin\Debug\NSV Security Lottery.xml
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\obj\Debug\NSV_Security_Lottery.Form1.resources
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\obj\Debug\NSV_Security_Lottery.Resources.resources
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\obj\Debug\NSV Security Lottery.vbproj.GenerateResource.cache
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\obj\Debug\NSV Security Lottery.vbproj.CoreCompileInputs.cache
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\obj\Debug\NSV Security Lottery.exe
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\obj\Debug\NSV Security Lottery.xml
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\obj\Debug\NSV Security Lottery.pdb
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\NSV Security Lottery\NSV Security Lottery\obj\Debug\NSV Security Lottery.vbprojAssemblyReference.cache
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\bin\Debug\NSV Security Lottery.exe
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\bin\Debug\NSV Security Lottery.pdb
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\bin\Debug\NSV Security Lottery.xml
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\obj\Debug\NSV_Security_Lottery.Form1.resources
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\obj\Debug\NSV_Security_Lottery.Resources.resources
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\obj\Debug\NSV Security Lottery.vbproj.GenerateResource.cache
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\obj\Debug\NSV Security Lottery.vbproj.CoreCompileInputs.cache
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\obj\Debug\NSV Security Lottery.exe
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\obj\Debug\NSV Security Lottery.xml
+D:\VB2005\NSV-Vietlot\NSV Security Lotterry\2 so\NSV Security Lottery\obj\Debug\NSV Security Lottery.pdb

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NSV Security Lottery
+</name>
+</assembly>
+<members>
+<member name="T:NSV_Security_Lottery.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.bo_hinh_nen_chuot_cute_sieu_de_thuong_tet_canh_ty_2020_13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.dung">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.dunglai">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.EYP">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.iconfinder_ping_395375">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.NSV">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.quayso">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.Quaysoo_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.vi_sao_nen_to_chuc_su_kien_year_end_party_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NSV_Security_Lottery.My.Resources.Resources.vi_sao_nen_to_chuc_su_kien_year_end_party_011">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

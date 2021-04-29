@@ -1,0 +1,11 @@
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\VB2005\NSV-Vietlot\Tim so Vietlot\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Quayso", "Quayso\Quayso.vbproj", "{6F79BBCC-7B20-4D3F-8328-6E506ABC14DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F79BBCC-7B20-4D3F-8328-6E506ABC14DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F79BBCC-7B20-4D3F-8328-6E506ABC14DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F79BBCC-7B20-4D3F-8328-6E506ABC14DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F79BBCC-7B20-4D3F-8328-6E506ABC14DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {789CE609-7D7B-4B2D-9C92-FB31FAEAD7A6}
+	EndGlobalSection
+EndGlobal
